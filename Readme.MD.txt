@@ -1,24 +1,19 @@
-# Author: Chandranil Chakraborttii
-# Project: Learning I/O Access Patterns to Improve Prefetching in SSDs
-# Paper Link :https://www.researchgate.net/profile/Chandranil_Chakraborttii/publication/344379801_Learning_IO_Access_Patterns_to_Improve_Prefetching_in_SSDs/links/5f6e28fba6fdcc00863adb13/Learning-I-O-Access-Patterns-to-Improve-Prefetching-in-SSDs.pdf
-
-
-In this project, we collect I/O trace files from several real-world applications running on cloudservers and show that our proposed approach consistently outperforms existing stride prefetchers by up to 800× and prior approaches based on Markov chains by up to 8×. Furthermore, we propose an address mapping learning technique to demonstrate the applicability of our approach to  previously  unseen  SSD  workloads  and  perform  an  hyperparameter sensitivity study.
+In this project, we collect I/O trace files from several real-world applications running on cloudservers and show that our proposed approach consistently outperforms existing stride prefetchers by up to 800× and prior approaches based on Markov chains by up to 8×. Furthermore, we propose an address map-ping learning technique to demonstrate the applicability of our approach to  previously  unseen  SSD  workloads  and  perform  an  hyperparameter sensitivity study.
 
 
 You will need the following packages installed for the code to work:
-python 3.8.6
-tensorflow-gpu 1.15
-nvidia-driver-430
-cuda 10.1
-cudnn 9.0
-pandas
-matplotlib
-pillow
-requests
-sklearn
-keras multi-head
-jupyter notebook
+- python 3.8.6
+- tensorflow-gpu 1.15
+- nvidia-driver-430
+- cuda 10.1
+- cudnn 9.0
+- pandas
+- matplotlib
+- pillow
+- requests
+- sklearn
+- keras multi-head
+- jupyter notebook
 
 
 Please use the following steps to recreate the project. 
