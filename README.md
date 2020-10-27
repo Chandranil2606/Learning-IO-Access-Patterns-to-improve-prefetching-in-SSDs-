@@ -1,7 +1,11 @@
 Author: Chandranil Chakraborttii and Heiner Litz
-My website : https://people.ucsc.edu/~cchakrab/
 
-Project Description
+
+My website: https://people.ucsc.edu/~cchakrab/
+
+
+
+Project Description:
 In this project, we collect I/O trace files from several real-world applications running on cloudservers and show that our proposed approach consistently outperforms existing stride prefetchers by up to 800× and prior approaches based on Markov chains by up to 8×. Furthermore, we propose an address map-ping learning technique to demonstrate the applicability of our approach to  previously  unseen  SSD  workloads  and  perform  an  hyperparameter sensitivity study.
 
 
