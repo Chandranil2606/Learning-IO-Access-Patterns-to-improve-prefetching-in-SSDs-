@@ -1,3 +1,7 @@
+Author: Chandranil Chakraborttii and Heiner Litz
+My website : https://people.ucsc.edu/~cchakrab/
+
+Project Description
 In this project, we collect I/O trace files from several real-world applications running on cloudservers and show that our proposed approach consistently outperforms existing stride prefetchers by up to 800× and prior approaches based on Markov chains by up to 8×. Furthermore, we propose an address map-ping learning technique to demonstrate the applicability of our approach to  previously  unseen  SSD  workloads  and  perform  an  hyperparameter sensitivity study.
 
 
@@ -24,6 +28,11 @@ Please use the following steps to recreate the project.
 5. Use simulator.ipynb to check the performance of the model
 6. Use the baselines.ipynb to get information about predictions
 7. Use transfer learning to test applicabilty in other traces (Required training first. Trained model included)
+
+
+P.S: You need to update the path and GPU variables before running.
+
+
 
 
 
